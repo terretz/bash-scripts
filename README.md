@@ -1,4 +1,4 @@
 # scripts
 random bash scripts
 
-Testing out github.
+Testing out github. wat?
